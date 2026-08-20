@@ -79,20 +79,26 @@ CS2SkinChanger.exe
 ---
 
 ## 🖼️ Скриншоты
-
-```markdown
-![CS2 SkinChanger](https://data.exloader.net/webp_images/CS2SDK/inventory.webp))
-```
-
-```markdown
-![Skin Selection](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrgzuYAS-6M2Ve-9k6W-TScnr66M2r80mLK5kaokp0Q&s=10)
-```
-
-### В игре
-
-```markdown
-![In Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTigl_ZutF2oe8sSvKPC0hZPpP-eHP4Yb_n60i72FDA&s=10)
-```
+2
+ 
+3
+### Инвентарь
+4
+ 
+5
+![CS2 SkinChanger](https://data.exges/CS2SDK/inventory.webp
+6
+ 
+7
+### Выбор скинов
+8
+ 
+9
+![Skin Selection](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrgzuYAS-6M2Ve-9k6W-TScnr66M2r80mLK5kaokре
+10
+ 
+11
+![In Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTigl_ZutF2oe8sSvKPC0hZPpP-eHP4Yb_n60i72
 
 ---
 
