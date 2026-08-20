@@ -81,7 +81,7 @@ CS2SkinChanger.exe
  ## 🖼️ Скриншоты
 
 ```markdown
-![CS2 SkinChanger](https://cdn.imageurlgenerator.com/uploads/6d215363-06a1-4599-b3c2-e8f410400091.webp)
+![CS2 SkinChanger](https://cdn.phototourl.com/free/2026-08-20-23fe3f55-c374-4651-85a2-c82656e933f7.webp)
 ```
 
 ```markdown
