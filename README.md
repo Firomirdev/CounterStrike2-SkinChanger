@@ -80,13 +80,9 @@ CS2SkinChanger.exe
 
 ## 🖼️ Скриншоты
 
-### Главный экран
-
 ```markdown
 ![CS2 SkinChanger](images/main.png)
 ```
-
-### Выбор скина
 
 ```markdown
 ![Skin Selection](images/skins.png)
