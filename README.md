@@ -78,21 +78,35 @@ CS2SkinChanger.exe
 
 ---
 
- ## 🖼️ Скриншоты
+## 🖼️ Скриншоты скинов
 
-```markdown
-![CS2 SkinChanger](https://cdn.phototourl.com/free/2026-08-20-23fe3f55-c374-4651-85a2-c82656e933f7.webp)
-```
+> [!IMPORTANT]
+>
+> ### ✨ Примеры доступных скинов
+>
+> Ниже представлены некоторые скины, доступные в SkinChanger.
 
-```markdown
-![Skin Selection]()
-```
+<div align="center">
 
-### В игре
+### 🎨 Пример №1
 
-```markdown
-![In Game]()
-```
+<img src="[https://cdn.phototourl.com/free/2026-08-20-28ba29c1-abde-4a14-8c6e-990ddd2991b9.jpg](https://cdn.phototourl.com/free/2026-08-20-23fe3f55-c374-4651-85a2-c82656e933f7.webp)" width="80%" alt="Skin Preview">
+
+<br><br>
+
+🔥 Пример №2
+
+<img src="https://cdn.phototourl.com/free/2026-08-20-440c16a2-8a08-40bf-bdff-3e46bbb5d029.jpg" width="80%" alt="Skin Preview">
+
+<br><br>
+
+### ⚡ Пример №3
+
+<img src="https://cdn.phototourl.com/free/2026-08-20-acd5dbad-a8e2-41c7-9dbd-ecabc82fecb9.jpg" width="80%" alt="Skin Preview">
+
+</div>
+
+
 ---
 
 ## ✨ Возможности
