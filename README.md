@@ -90,7 +90,7 @@ CS2SkinChanger.exe
 
 ### 🎨 Пример №1
 
-<img src="[https://cdn.phototourl.com/free/2026-08-20-28ba29c1-abde-4a14-8c6e-990ddd2991b9.jpg](https://cdn.phototourl.com/free/2026-08-20-23fe3f55-c374-4651-85a2-c82656e933f7.webp)" width="80%" alt="Skin Preview">
+<img src="https://cdn.phototourl.com/free/2026-08-20-acd5dbad-a8e2-41c7-9dbd-ecabc82fecb9.jpg" width="80%" alt="Skin Preview">
 
 <br><br>
 
