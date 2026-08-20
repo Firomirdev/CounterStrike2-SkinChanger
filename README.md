@@ -81,17 +81,17 @@ CS2SkinChanger.exe
 ## 🖼️ Скриншоты
 
 ```markdown
-![CS2 SkinChanger](images/main.png)
+![CS2 SkinChanger](https://data.exloader.net/webp_images/CS2SDK/inventory.webp))
 ```
 
 ```markdown
-![Skin Selection](images/skins.png)
+![Skin Selection](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrgzuYAS-6M2Ve-9k6W-TScnr66M2r80mLK5kaokp0Q&s=10)
 ```
 
 ### В игре
 
 ```markdown
-![In Game](images/ingame.png)
+![In Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHTigl_ZutF2oe8sSvKPC0hZPpP-eHP4Yb_n60i72FDA&s=10)
 ```
 
 ---
@@ -125,48 +125,3 @@ CS2SkinChanger.exe
 > Последнюю версию программы можно найти во вкладке **Releases** этого репозитория.
 
 **Последняя версия:** `v1.0`
-
----
-
-## 📸 Добавить свои скриншоты
-
-Создай папку:
-
-```text
-images/
-```
-
-и добавь туда изображения:
-
-```text
-images/
-├── main.png
-├── skins.png
-└── ingame.png
-```
-
-Затем добавь их в README:
-
-```markdown
-<p align="center">
-  <img src="images/main.png" width="800">
-</p>
-```
-
----
-
-## ⭐ Поддержка проекта
-
-Если проект оказался полезным:
-
-⭐ **Поставь звезду репозиторию**
-
-🐛 Нашёл ошибку — создай **Issue**
-
-💡 Есть предложение — открой **Discussion**
-
----
-
-<p align="center">
-  Made with ❤️ for the CS2 community
-</p>
